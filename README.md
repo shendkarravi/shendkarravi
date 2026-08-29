@@ -236,47 +236,6 @@ A real-time style chat application developed to practice frontend, backend and d
 
 ---
 
-# 📚 Currently Learning
-
-```text
-Java
- ├── Core Java
- ├── OOP
- ├── Collections
- ├── Exception Handling
- ├── Multithreading
- ├── Java 8+
- └── Stream API
-
-Spring
- ├── Spring Core
- ├── IoC & Dependency Injection
- ├── Spring Boot
- ├── REST APIs
- ├── Spring Data JPA
- ├── Hibernate
- └── Spring Security
-
-Frontend
- ├── React.js
- ├── Next.js
- ├── TypeScript
- ├── Redux
- └── Performance Optimization
-
-Database
- ├── MySQL
- └── MongoDB
-
-Other
- ├── Git & GitHub
- ├── Docker
- ├── AWS
- └── DSA
-```
-
----
-
 # 🎯 My Development Goals
 
 * 🚀 Become a strong **Java Full Stack Developer**
@@ -290,7 +249,6 @@ Other
 * 🤝 Contribute to open-source projects
 
 ---
-
 
 # 🤝 Let's Connect
 
