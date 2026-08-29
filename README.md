@@ -100,6 +100,32 @@ During my internship, I worked on a healthcare-focused web application and contr
 * 🎁 Donation Module
 
 ---
+### 🏢 Java Backend Developer Intern — Yash Infotech Pvt. Ltd.
+
+I worked as a **Java Backend Developer Intern** for 6 months, where I focused on backend development using **Java and Spring Boot** and gained practical experience in developing backend applications and APIs.
+
+**Technologies used:**
+
+`Java` `Spring Boot` `REST API` `MySQL` `JPA` `Hibernate` `Git` `Postman`
+
+**Key Contributions:**
+
+* ☕ Developed backend functionality using Java and Spring Boot
+* ⚙️ Created and worked with RESTful APIs
+* 🔄 Worked on API request and response handling
+* 🗄️ Worked with MySQL for database operations
+* 🔗 Integrated backend services with databases
+* 🧩 Implemented backend business logic
+* 📮 Tested and debugged APIs using Postman
+* 🛠️ Used Git and GitHub for version control
+* 🐛 Debugged issues and improved application functionality
+* 📚 Gained practical experience in real-world Java backend development
+
+**Main Focus:**
+
+`Java` `Spring Boot` `REST APIs` `MySQL` `JPA/Hibernate` `Backend Development`
+
+---
 
 # 🚀 Featured Projects
 
