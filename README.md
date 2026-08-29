@@ -247,6 +247,14 @@ A real-time style chat application developed to practice frontend, backend and d
 * 🐳 Improve my knowledge of **Docker & DevOps**
 * 💡 Build practical projects that solve real-world problems
 * 🤝 Contribute to open-source projects
+  
+---
+
+## 📈 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TusharShendkar921&theme=tokyo-night&hide_border=true" alt="Tushar's GitHub Activity Graph" />
+</p>
 
 ---
 
