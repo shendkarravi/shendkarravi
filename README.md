@@ -253,7 +253,7 @@ A real-time style chat application developed to practice frontend, backend and d
 ## 📈 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TusharShendkar921&theme=tokyo-night&hide_border=true" alt="Tushar's GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TusharShendkar921&theme=tokyo-night" alt="Tushar's GitHub Activity Graph" />
 </p>
 
 ---
